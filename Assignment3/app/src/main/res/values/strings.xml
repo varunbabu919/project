@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="emailid">email id</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+</resources>

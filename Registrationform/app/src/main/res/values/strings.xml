@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Registration form</string>
+    <string name="submit">Submit</string>
+    <string name="mechanical">civil</string>
+    <string name="eee">eee</string>
+    <string name="civil">Mechanical</string>
+    <string name="ece">ECE</string>
+    <string name="cse">CSE</string>
+    <string name="branch">Branch</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender">Gender</string>
+    <string name="enter_password">enter password</string>
+    <string name="enter_emailid">enter email id</string>
+    <string name="enter_mobile_no">enter mobilenumber</string>
+    <string name="enter_name">enter Name</string>
+    <string name="enter_roll_no_">Enter RollNo</string>
+</resources>
